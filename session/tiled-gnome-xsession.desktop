@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=bspwm + GNOME
+Comment=This session logs you into bspwm with GNOME session integration
+Exec=gnome-session-tiled
+TryExec=tiled-gnome
+Type=Application
+DesktopNames=GNOME
+X-Ubuntu-Gettext-Domain=gnome-session-3.0

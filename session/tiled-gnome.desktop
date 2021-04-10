@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=tiled-gnome
+NoDisplay=true
+Comment=bspwm window manager
+Exec=tiled-gnome
+X-GNOME-WMName=tiled-gnome
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
